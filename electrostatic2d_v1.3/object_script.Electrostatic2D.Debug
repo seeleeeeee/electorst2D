@@ -1,0 +1,11 @@
+debug/main.o
+debug/geometry_scene.o
+debug/launcherwindow.o
+debug/mainwindow.o
+debug/materialsdialog.o
+debug/settingsdialog.o
+debug/moc_geometry_scene.o
+debug/moc_launcherwindow.o
+debug/moc_mainwindow.o
+debug/moc_materialsdialog.o
+debug/moc_settingsdialog.o

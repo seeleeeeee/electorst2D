@@ -1,0 +1,11 @@
+release/main.o
+release/geometry_scene.o
+release/launcherwindow.o
+release/mainwindow.o
+release/materialsdialog.o
+release/settingsdialog.o
+release/moc_geometry_scene.o
+release/moc_launcherwindow.o
+release/moc_mainwindow.o
+release/moc_materialsdialog.o
+release/moc_settingsdialog.o
